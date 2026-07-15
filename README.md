@@ -4,9 +4,8 @@ Data Nerds! This repository is a collection of Power BI dashboards I've develope
 
 ## 🎥 Dashboard Walkthrough
 
-GitHub does not render inline video players in `README.md`, so I’m using a clickable preview image instead. Open the thumbnail below to watch the screen recording.
+https://github.com/user-attachments/assets/04ced9a6-de05-4c08-98e3-1176eff15c3d
 
-[![Dashboard screen recording preview](/images/Project2_Page1.jpeg)](/images/screen%20recording%20of%20my%20dashboard.mp4)
 
 # Featured Dashboards
 
